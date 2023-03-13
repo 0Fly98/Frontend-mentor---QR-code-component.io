@@ -1,6 +1,8 @@
 # Frontend-mentor---QR-code-component
 my first QR code as a front end developer
 
+![Screenshot](https://github.com/0Fly98/Frontend-mentor---QR-code-component.io/blob/main/13.03.2023_18.05.29_REC.png)
+
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 - [My process]( started with html as body structure then went to include css for the sty etc.)
